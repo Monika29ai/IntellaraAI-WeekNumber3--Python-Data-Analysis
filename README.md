@@ -1,2 +1,2 @@
-# IntellaraAI-WeekNumber3--Python-Data-Analysis
+# IntellaraAI-WeekNumber3-Python-Data-Analysis
 Analyzing data using pandas
